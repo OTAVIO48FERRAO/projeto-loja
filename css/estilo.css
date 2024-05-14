@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: navy;
+}
+#logo{
+    width: 200px;
+    height: 200px;
+}
+#menu{
+    text-align: center;
+}
+#menu li a{
+    color: #fff;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
